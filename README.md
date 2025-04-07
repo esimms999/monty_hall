@@ -18,7 +18,8 @@ We collaborated to create two R simulation programs to explore this problem, now
 
 2. **Generalization (`n_doors.R`)**
    - esimms999 asked for a version supporting `n` doors (e.g., 5 doors: 1 car, 4 goats).
-   - GrokAI adapted the code to handle variable doors, targeting sticking at `1/n` (0.2 for 5) and switching at `(n-1)/n` (0.8 for 5), with a bar plot.
+   - GrokAI adapted the code to handle variable doors, targeting sticking at `1/n` (0.2 for 5) and switching at `(n-1)/n` (0.8 for 5).
+   - This can be run with multiple repeats of simulations.
 
 ## Outcome
 - **`three_doors.R`**: Simulates the classic problem, confirming the 1/3 vs. 2/3 probabilities.
