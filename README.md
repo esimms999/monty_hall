@@ -21,6 +21,11 @@ We collaborated to create two R simulation programs to explore this problem, now
    - GrokAI adapted the code to handle variable doors, targeting sticking at `1/n` (0.2 for 5) and switching at `(n-1)/n` (0.8 for 5).
    - This can be run with multiple repeats of simulations.
 
+2. **GitHub Repository**
+   - esimms999 requested GrokAI provide assistance in creating a GitHub repository.
+   - GrokAI provided guidance in creating a local git repo and linking it to GitHub.
+   - GrokAI contributed the content for the README.
+   
 ## Outcome
 - **`three_doors.R`**: Simulates the classic problem, confirming the 1/3 vs. 2/3 probabilities.
 - **`n_doors.R`**: Extends it to `n` doors, validated with 5 doors (e.g., ~0.2 stick, ~0.8 switch), summing to 1.0.
