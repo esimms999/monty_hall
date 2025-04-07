@@ -2,7 +2,7 @@
 set.seed(123)
 
 # Number of simulations
-n_simulations <- 1000000
+n_simulations <- 10000
 
 # Function to simulate one Monty Hall game and return both outcomes
 monty_hall <- function() {

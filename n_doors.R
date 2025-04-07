@@ -2,7 +2,7 @@
 set.seed(123)
 
 # Number of runs, simulations and doors
-n_runs <- 10
+n_runs <- 3
 n_simulations <- 100
 n_doors <- 3
 
@@ -73,3 +73,4 @@ for (run in 1:n_runs) {
     }
   )
 }
+
